@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = I::Ify::VERSION
   spec.authors       = ["dhemmat"]
   spec.email         = ["dhemmat@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Convert text into kidspeak with I's.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
