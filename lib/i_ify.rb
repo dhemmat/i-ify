@@ -1,7 +1,9 @@
 require "i_ify/version"
 
-module Ify
-  def i_ify text
+module I_ify
+  def self.i_ify text
+    puts "HERE!!!"
+    puts text
     text.gsub!(/[aeiou]/,"i")
     text.gsub!(/[AEIOU]/,"I")
   end
