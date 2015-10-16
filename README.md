@@ -1,4 +1,4 @@
-# I::Ify
+# I_ify
 
 I-ify is a very simple gem for converting regular text into kidspeak, substituting all vowels with "i"s.
 

@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'i/ify/version'
+require 'i_ify/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "i-ify"
-  spec.version       = I::Ify::VERSION
+  spec.version       = I_ify::VERSION
   spec.authors       = ["dhemmat"]
   spec.email         = ["dhemmat@gmail.com"]
   spec.summary       = %q{Convert text into kidspeak with I's.}
