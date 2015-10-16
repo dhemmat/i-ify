@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["dhemmat"]
   spec.email         = ["dhemmat@gmail.com"]
   spec.summary       = %q{Convert text into kidspeak with I's.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.description   = %q{Convert text into kidspeak by substituting all vowels with "I"s}
+  spec.homepage      = "https://github.com/dhemmat/i-ify"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
